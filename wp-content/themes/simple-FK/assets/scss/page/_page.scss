@@ -1,0 +1,22 @@
+.page-template-default
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .content
+  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+/*    background-color: $block-color;
+    border-radius: $boxRadius;*/
+    margin-bottom: 20px;
+
+    & p
+    {
+/*      width: 90%;*/
+    }
+  }
+}

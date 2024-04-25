@@ -1,0 +1,118 @@
+body {
+  background-color: #F4F4F4;
+}
+
+.blog__article {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.blog__article .post {
+  background-color: #FFFFFF;
+  border-radius: 20px;
+  width: 80%;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.blog__article .post__continue, .blog__article .post__meta {
+  text-align: right;
+}
+.blog__article .post__link {
+  width: fit-content;
+  text-decoration: none;
+  font-family: inherit;
+}
+.blog__article .post .wp-post-image {
+  max-width: 90%;
+  height: auto;
+}
+.blog__article .post p {
+  width: 90%;
+}
+
+.page-template-default {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.page-template-default .content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  /*    background-color: $block-color;
+      border-radius: $boxRadius;*/
+  margin-bottom: 20px;
+}
+.page-template-default .content p {
+  /*      width: 90%;*/
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.header a {
+  width: 100%;
+}
+.header__banner {
+  width: 100%;
+  height: auto;
+}
+.header__menu {
+  padding-left: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 80%;
+}
+.header__menu a {
+  width: fit-content;
+  text-decoration: none;
+  font-family: inherit;
+}
+.footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.footer__content {
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.footer__menu {
+  padding-left: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.footer__menu a {
+  width: fit-content;
+  text-decoration: none;
+  font-family: inherit;
+}
+h1 {
+  width: 100%;
+  text-align: center;
+}
+
+.content {
+  text-align: justify;
+}
+
+.blurred-line {
+  margin-top: 5px;
+  width: 100%;
+  height: 2px;
+  filter: blur(1.5px);
+}
+
+/*# sourceMappingURL=main.css.map */

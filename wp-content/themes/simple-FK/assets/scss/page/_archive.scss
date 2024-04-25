@@ -1,0 +1,52 @@
+.blog
+{
+  &__article
+  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .post
+    {
+      background-color: $block-color ;
+      border-radius: $boxRadius;
+      width: 80%;
+      margin-bottom: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      &__continue, &__meta
+      {
+        text-align: right;
+      }
+
+      &__link
+      {
+        width: fit-content;
+        text-decoration: none;
+        font-family: inherit;
+
+        &:visited {
+        }
+
+        &:active {
+        }
+
+        &:hover {
+        }
+      }
+
+      .wp-post-image
+      {
+        max-width: 90%;
+        height: auto;
+      }
+
+      & p
+      {
+        width: 90%;
+      }
+    }
+  }
+}

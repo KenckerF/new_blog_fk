@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300"> /* 124.64 101.73 */
+  <defs>
+    <style>
+      .cls-2 {
+        fill: #3e5a80;
+        stroke-width: 0px;
+      }
+      .cls-3 {
+        fill: #FFFFFF;
+        stroke-width: 0px;
+        font-size: 55px;
+        font-family: "Verdana";
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="0" y="0" width="1200" height="300" />
+    <svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" x="537.68" y="60" width="124.64" height="101.73" viewBox="0 0 124.64 101.73">
+    <defs>
+        <style>
+        .cls-1 {
+            fill: #FFFFFF;
+            stroke-width: 0px;
+        }
+        </style>
+    </defs>
+    <g id="Calque_1-2" data-name="Calque 1">
+        <path class="cls-1" d="m117.3,63.57V7.34h-55.26V0h62.59v63.57h-7.33Z"/>
+        <path class="cls-1" d="m62.6,94.34v7.39H0v-63.72h7.4v56.32h55.2Z"/>
+        <path class="cls-1" d="m99.61,73.53c-3.68,0-6.4.17-9.08-.09-1.03-.1-2.18-1.01-2.91-1.87-3.6-4.26-7.09-8.63-10.83-13.22-3.64,4.06-7.1,7.92-11.07,12.34V31.88h7.75v18c.26.1.53.19.79.29,3.74-4.56,7.98-8.8,11.07-13.77,3.42-5.48,8.03-5.08,13.85-4.55-5.87,7.28-11.37,14.11-16.98,21.09,5.66,6.7,11.19,13.25,17.39,20.58Z"/>
+        <path class="cls-1" d="m33.83,31.8h19.41v7.27h-11.52v9.61h16.65v7.58h-16.82v17.11h-7.71V31.8Z"/>
+    </g>
+    </svg>
+  <text class="cls-3" x="410" y="230">
+    Flavien Kencker
+  </text>
+</svg>

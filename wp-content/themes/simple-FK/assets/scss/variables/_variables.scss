@@ -1,0 +1,12 @@
+$boxRadius : 20px;
+$CTARadius : 12px;
+$paddingMobile : 20px;
+$boxSpacing : 20px;
+
+@mixin box-shadow($color) {
+  box-shadow: 10px 10px $color;
+}
+
+@mixin link-border($color) {
+  border-bottom: solid 3px $color;
+}
